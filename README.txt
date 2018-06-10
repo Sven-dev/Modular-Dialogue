@@ -12,4 +12,4 @@ The dialogue options so far are:
 First you add the code to your Unity Project. I've prepared a few prefabs in the 'Components' folder, as well as a full conversation as a demonstration.
 
 # Custom dialogue components?
-All dialogue options consist of modular components, which allow you to construct your own dialogue options and easily add now possibilities if need be.
+All dialogue options consist of modular components, which allow you to construct your own dialogue options and easily add new possibilities if need be.
